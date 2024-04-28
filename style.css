@@ -1,0 +1,30 @@
+html {
+    background-color: darkblue;
+}
+
+h1 {
+    background-color: darkblue;
+    color: orangered;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+    border: 5px solid darkblue;
+    text-transform: uppercase;  
+}
+
+h2 {
+    background-color: darkblue;
+    color: orangered;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+    border: 5px solid darkblue;    
+}
+
+img {
+    width: 100%;
+    border: 5px solid whitesmoke;
+}
+
+.poster {
+    width: 50%;
+    margin-left: 25%;
+}
